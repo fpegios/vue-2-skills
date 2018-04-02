@@ -25,4 +25,4 @@
 </template>
 
 <script src="./Skills.js"></script>
-<style src="./Skills.css" scoped></style>
+<style src="./Skills.scss" lang="scss" scoped></style>

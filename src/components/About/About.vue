@@ -7,4 +7,4 @@
 </template>
 
 <script src="./About.js"></script>
-<style src="./About.css" scoped></style>
+<style src="./About.scss" lang="scss" scoped></style>
