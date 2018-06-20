@@ -1,6 +1,7 @@
 # vue-2-skills
 
-> Vuejs 2 Tutorial Project from Coursetro
+> Vuejs 2 Tutorial Project from Coursetro: [Vue Tutorial in 2018 - Learn Vue.js by Example
+](https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example)
 
 ## Build Setup
 
