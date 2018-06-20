@@ -1,6 +1,6 @@
 # vue-2-skills
 
-> A Vue.js project
+> Vuejs 2 Tutorial Project from Coursetro
 
 ## Build Setup
 
